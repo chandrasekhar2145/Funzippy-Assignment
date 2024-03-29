@@ -12,8 +12,8 @@ In the above figma, you can find multiple design layouts, select any one of the 
 Also, you’ll have to add page flip animation.
 
 Reference Page flip animations.
-https://codepen.io/pizzabote/pen/xxxXmXN
-https://codepen.io/samuelmwangi/pen/PoPLpyq
-https://codepen.io/Nidhanshu/pen/YaLYgw
+https://codepen.io/pizzabote/pen/xxxXmXN,
+https://codepen.io/samuelmwangi/pen/PoPLpyq,
+https://codepen.io/Nidhanshu/pen/YaLYgw,
 
  
